@@ -8,12 +8,14 @@ For this assignment, you'll create some initial plans for your project.
 
 ### Wireframes
 
-Include at least 3 wireframes here, adding images or files to your repository as necessary. Format them as a bulleted/unordered list with links to the files.
+- ![Wireframe 1 - Categories Page](Wireframes/recipe_wireframe1-Categories.jpg)
+- ![Wireframe 2 - Landing/Home Page](Wireframes/recipe_wireframe1-Landing_Home.jpg)
+- ![Wireframe 3 - Search Results](Wireframes/recipe_wireframe1-Search_Results.jpg)
+- ![Wireframe 4 - Single Recipe View](Wireframes/recipe_wireframe1-Single_Recipe.jpg)
 
 ### Project Tracker
 
-Include a link to your public Trello board. Be sure you have user stories added for at least your first 2-week sprint.
+[Liftoff Project Trello](https://trello.com/b/7TMpfels/liftoff-project)
 
 ### Project Repo Link
-
-Include a link to your project on GitHub.
+[Github Link](https://github.com/mthreec1983/recipesRus)
